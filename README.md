@@ -3,6 +3,11 @@
 ## Course Materials for Exploring Computer Vision with Cloud Services
 
 - Click on the ```Code``` button and ```Download ZIP```
-- Unzip locally in your storage
+- Unzip the files to your local storage
 - Create a folder ```ECVCS``` in your Google Drive
-- Upload the ```.ipynb``` files and ```our_people.jpg``` into the ECVCS folder
+- Upload the following files and folder into the ```ECVCS``` folder
+  - 1_1_Object_Detection_GCP.ipynb
+  - 1_2_Face_Detection_GCP.ipynb
+  - 2_1_Image_Classification_AutoML.ipynb
+  - our_people.jpg
+  - ```CatsNDogs``` folder (consists of 2 sub-folders and 60 images)

@@ -1,4 +1,4 @@
-# Exploring Computer Vision with Computer Vision (2022)
+# Exploring Computer Vision with Cloud Services (2022)
 
 ## Course Materials for Exploring Computer Vision with Cloud Services
 

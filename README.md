@@ -10,4 +10,3 @@
   - 1_2_Face_Detection_GCP.ipynb
   - 2_1_Image_Classification_AutoML.ipynb
   - our_people.jpg
-  - ```CatsNDogs``` folder (consists of 2 sub-folders and 60 images)
